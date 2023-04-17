@@ -2,6 +2,7 @@ import sys
 
 print(sys.version)
 print(sys.executable)
+print("Irtaza")
 
 
 def greet(who_to_greet):
